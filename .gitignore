@@ -1,0 +1,4 @@
+node_modules/
+core/mosquitto/data/
+core/mosquitto/log/
+__pycache__/
